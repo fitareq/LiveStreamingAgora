@@ -1,0 +1,4 @@
+package com.example.livestreamingagora
+
+val APP_ID = "cb044e357e5040d6a26b81b59a40c066"
+val TOKEN = "006cb044e357e5040d6a26b81b59a40c066IACnLL9l+/kP1XHtGIftAOThGBIx504v9ZsGnUKPAFcEfwx+f9gAAAAAEABGv362I3iHYgEAAQAieIdi"
